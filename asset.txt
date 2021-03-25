@@ -1,0 +1,48 @@
+foto foto untuk paralax:
+- https://unsplash.com/photos/W9OKrxBqiZA
+- https://unsplash.com/photos/_Zn_7FzoL1w
+
+
+foto buat parallx:
+paralax1: https://unsplash.com/photos/dtCZ4xEDHKg
+paralx2:  https://unsplash.com/photos/VwiLLyETLcQ
+paralax3: https://unsplash.com/photos/6Mq_L_tXZO4
+
+
+slider:
+slider2: https://unsplash.com/photos/_aNFQ_7RxNc
+slider1: https://unsplash.com/photos/cFIZ6TBJT-Y
+slider3: https://unsplash.com/photos/-WW8jBak7bo
+slider4: https://unsplash.com/photos/pUAM5hPaCRI
+
+
+buat background belakang
+dapur : -https://www.toptal.com/designers/subtlepatterns/tag/light/page/8/
+
+buat card ambil dari:
+https://materializecss.com/cards.html
+
+logo line di card title
+line : https://icons8.com/icon/set/line/color
+ig   : https://icons8.com/icon/set/instagram/color
+tw	 : https://icons8.com/icon/set/twitter/color
+
+
+jquery
+jquery-3.3.1.min.js :https://jquery.com/download/
+
+
+kata kata untuk card
+http://mamatata.info/kumpulan-kata-motivasi-fotografi-yang-bijak-menginspirasi/
+
+
+Sumber isi card skill
+Food photography :https://hobiku.net/mengenal-macam-macam-genre-aliran-dalam-fotografi/
+
+
+
+Fine Art photo graphy :https://hobiku.net/mengenal-macam-macam-genre-aliran-dalam-fotografi/
+
+short movie:https://id.wikipedia.org/wiki/Film_pendek
+
+
